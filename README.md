@@ -1,0 +1,2 @@
+# xingcai
+后端采用SpringBoot、SpringCloud技术栈开发，数据库使用了MySQL，还使用的Redis、消息队列、分布式文件系统minio、Elasticsearch等中间件系统
