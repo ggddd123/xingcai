@@ -1,0 +1,768 @@
+2024-07-12 14:02:06,280 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h56m55s581ms293µs800ns).
+2024-07-12 14:02:06,280 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h56m55s581ms293µs800ns).
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,280 DEBUG [HikariPool-1 housekeeper][HikariPool.java:342] - HikariPool-1 - Add connection elided, waiting 0, queue 1
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@77c8de0a: (connection has passed maxLifetime)
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75112f4: (connection has passed maxLifetime)
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@76c72c9c: (connection has passed maxLifetime)
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@77c8de0a: (connection has passed maxLifetime)
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75112f4: (connection has passed maxLifetime)
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,295 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@76c72c9c: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14400f07: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14400f07: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7248ef68: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7248ef68: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e79e606
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3375e553: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e79e606
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3375e553: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37fa26a7: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37fa26a7: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29531eb1: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29531eb1: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a801d91: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f44ec3d
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a801d91: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f44ec3d
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5707f6ad: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5707f6ad: (connection has passed maxLifetime)
+2024-07-12 14:02:06,311 DEBUG [HikariPool-1 connection closer][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e11d097
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e11d097
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f6b1372
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f6b1372
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a27d434
+2024-07-12 14:02:06,326 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a27d434
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b2588a8
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b2588a8
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@747adfe8
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@747adfe8
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68725260
+2024-07-12 14:02:06,342 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68725260
+2024-07-12 14:02:06,358 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b912093
+2024-07-12 14:02:06,358 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b912093
+2024-07-12 14:02:06,362 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b006f3
+2024-07-12 14:02:06,362 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b006f3
+2024-07-12 14:02:06,500 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:06,500 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition content-api applying {_genkey_0=/content/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: content-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition system-api applying {_genkey_0=/system/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: system-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition media-api applying {_genkey_0=/media/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: media-api
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition search-service applying {_genkey_0=/search/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: search-service
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition auth-service applying {_genkey_0=/auth/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: auth-service
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition checkcode applying {_genkey_0=/checkcode/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: checkcode
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2024-07-12 14:02:07,034 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition learning-api applying {_genkey_0=/learning/**} to Path
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: learning-api
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:271] - RouteDefinition orders-api applying {_genkey_0=/orders/**} to Path
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2024-07-12 14:02:07,050 DEBUG [Nacos-Watch-Task-Scheduler-1][RouteDefinitionRouteLocator.java:162] - RouteDefinition matched: orders-api
+2024-07-12 14:02:07,066 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:07,066 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:07,254 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:07,254 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:08,135 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:08,135 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:08,135 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:08,135 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:08,670 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63040, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@content-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:08,670 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63040, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@content-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:08,670 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40content-api&namespaceId=dev&port=63040&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:08,670 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40content-api&namespaceId=dev&port=63040&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:10,008 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:10,008 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:11,218 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:11,218 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:11,265 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:11,265 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:11,265 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:11,265 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:11,500 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:11,500 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:12,085 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:12,085 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:12,095 WARN [Thread-44][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:12,095 WARN [Thread-44][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:12,095 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6d0b5baf, started on Fri Jul 12 10:25:28 CST 2024, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@198d6542
+2024-07-12 14:02:12,095 WARN [Thread-44][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:12,095 WARN [Thread-44][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:12,095 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6d0b5baf, started on Fri Jul 12 10:25:28 CST 2024, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@198d6542
+2024-07-12 14:02:12,095 WARN [Thread-6][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:12,095 WARN [Thread-6][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:12,095 WARN [Thread-6][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:12,095 WARN [Thread-6][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483647
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483647
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'documentationPluginsBootstrapper' completed its stop procedure
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'documentationPluginsBootstrapper' completed its stop procedure
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483646
+2024-07-12 14:02:12,098 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483646
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerStartStop' completed its stop procedure
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerStartStop' completed its stop procedure
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 0
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 0
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'nacosWatch' completed its stop procedure
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'nacosWatch' completed its stop procedure
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@content-api:192.168.205.1:63040 from beat map.
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@content-api:192.168.205.1:63040 from beat map.
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@content-api with instance: Instance{instanceId='null', ip='192.168.205.1', port=63040, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@content-api with instance: Instance{instanceId='null', ip='192.168.205.1', port=63040, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63040&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40content-api, body: {}
+2024-07-12 14:02:12,871 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63040&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40content-api, body: {}
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:12,871 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:13,152 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0288de41121d764f9f8656045c434b95dev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@24fefdd0]
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service-dev.yamlxuecheng-plus-project7b2583238b9fae524126390d97352252devswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devmedia-api-dev.yamlxuecheng-plus-project7e41197fdbb4b6bd1194ae292af19ff8devmedia-apixuecheng-plus-projectdevmedia-api.yamlxuecheng-plus-projectdev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@2cb35a6e]
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=logging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devgateway.yamlxuecheng-plus-projectdevgatewayxuecheng-plus-projectdevgateway-dev.yamlxuecheng-plus-project0288de41121d764f9f8656045c434b95dev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@24fefdd0]
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service-dev.yamlxuecheng-plus-project7b2583238b9fae524126390d97352252devswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devmedia-api-dev.yamlxuecheng-plus-project7e41197fdbb4b6bd1194ae292af19ff8devmedia-apixuecheng-plus-projectdevmedia-api.yamlxuecheng-plus-projectdev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@2cb35a6e]
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=content-api-dev.yamlxuecheng-plus-project02666c461b6ee28bd2edd7d2ffb271badevswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devcontent-apixuecheng-plus-projectdevcontent-api.yamlxuecheng-plus-projectdevfreemarker-config-dev.yamlxuecheng-plus-common8e97657f299e4a1a6158e8ebf4894e51dev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=content-api-dev.yamlxuecheng-plus-project02666c461b6ee28bd2edd7d2ffb271badevswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devcontent-apixuecheng-plus-projectdevcontent-api.yamlxuecheng-plus-projectdevfreemarker-config-dev.yamlxuecheng-plus-common8e97657f299e4a1a6158e8ebf4894e51dev, tenant=dev}
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@202c28a7]
+2024-07-12 14:02:13,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@202c28a7]
+2024-07-12 14:02:13,530 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40gateway&udpPort=63351&clusters=DEFAULT, body: {}
+2024-07-12 14:02:13,530 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40gateway&udpPort=63351&clusters=DEFAULT, body: {}
+2024-07-12 14:02:13,687 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:13,687 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:13,687 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:13,687 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@content-api\",\"name\":\"xuecheng-plus-project@@content-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764133876,\"checksum\":\"b9882353305a55afb8e2c53bb9424188\",\"useSpecifiedURL\":false,\"clusters\":\"\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21405401361400} from /192.168.76.1
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@content-api\",\"name\":\"xuecheng-plus-project@@content-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764133876,\"checksum\":\"b9882353305a55afb8e2c53bb9424188\",\"useSpecifiedURL\":false,\"clusters\":\"\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21405401361400} from /192.168.76.1
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.205.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.205.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.205.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.205.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+2024-07-12 14:02:13,881 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@45132cd will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@7523a3dc
+2024-07-12 14:02:13,881 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@45132cd will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@7523a3dc
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@content-api\",\"name\":\"xuecheng-plus-project@@content-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764133881,\"checksum\":\"b9882353305a55afb8e2c53bb9424188\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21405401361400} from /192.168.76.1
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@content-api\",\"name\":\"xuecheng-plus-project@@content-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764133881,\"checksum\":\"b9882353305a55afb8e2c53bb9424188\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21405401361400} from /192.168.76.1
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@content-api@@DEFAULT -> [{"instanceId":"192.168.205.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.205.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000}]
+2024-07-12 14:02:13,881 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@content-api@@DEFAULT -> [{"instanceId":"192.168.205.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.205.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000}]
+2024-07-12 14:02:13,881 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@3eeadde3 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@447521e
+2024-07-12 14:02:13,881 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@3eeadde3 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@447521e
+2024-07-12 14:02:13,891 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@content-api -> []
+2024-07-12 14:02:13,891 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@content-api -> []
+2024-07-12 14:02:13,923 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@content-api@@DEFAULT -> []
+2024-07-12 14:02:13,923 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@content-api@@DEFAULT -> []
+2024-07-12 14:02:14,049 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:14,049 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:14,049 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:14,049 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:14,159 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:14,159 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [localhost:8848]
+2024-07-12 14:02:15,024 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:15,024 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:16,078 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=56531&clusters=DEFAULT, body: {}
+2024-07-12 14:02:16,078 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=56531&clusters=DEFAULT, body: {}
+2024-07-12 14:02:16,078 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:16,078 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:16,283 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:16,283 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:16,283 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:16,283 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:16,519 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:16,519 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:17,100 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:17,100 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:17,273 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:17,273 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:18,168 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:18,168 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63010, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@gateway', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:18,168 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:18,168 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40gateway&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:19,097 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:346] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception
+java.lang.NullPointerException
+	at com.alibaba.cloud.nacos.NacosServiceManager.nacosServiceShutDown(NacosServiceManager.java:115)
+	at com.alibaba.cloud.nacos.registry.NacosServiceRegistry.close(NacosServiceRegistry.java:120)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:339)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:273)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1092)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1085)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1061)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1030)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:170)
+	at org.springframework.context.support.AbstractApplicationContext$1.run(AbstractApplicationContext.java:949)
+2024-07-12 14:02:19,097 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:346] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception
+java.lang.NullPointerException
+	at com.alibaba.cloud.nacos.NacosServiceManager.nacosServiceShutDown(NacosServiceManager.java:115)
+	at com.alibaba.cloud.nacos.registry.NacosServiceRegistry.close(NacosServiceRegistry.java:120)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:339)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:273)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1092)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1085)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1061)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1030)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:170)
+	at org.springframework.context.support.AbstractApplicationContext$1.run(AbstractApplicationContext.java:949)
+2024-07-12 14:02:19,113 DEBUG [SpringContextShutdownHook][MBeanExporter.java:452] - Unregistering JMX-exposed beans on shutdown
+2024-07-12 14:02:19,113 DEBUG [SpringContextShutdownHook][MBeanExporter.java:452] - Unregistering JMX-exposed beans on shutdown
+2024-07-12 14:02:19,113 DEBUG [SpringContextShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-07-12 14:02:19,113 DEBUG [SpringContextShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-07-12 14:02:19,113 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:19,113 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:19,129 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:19,129 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:19,129 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:19,129 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50bb1eb6: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50bb1eb6: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1186148d: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1186148d: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@20dde41c: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@20dde41c: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@71a9ebc2: (connection evicted)
+2024-07-12 14:02:19,139 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@71a9ebc2: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4ef826f8: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4ef826f8: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75e776d2: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75e776d2: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2d44766e: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2d44766e: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b51f756: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b51f756: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55f500ce: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55f500ce: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@66f5e2e9: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@66f5e2e9: (connection evicted)
+2024-07-12 14:02:19,144 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:19,144 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:19,144 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-07-12 14:02:19,144 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-07-12 14:02:19,285 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:19,285 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:20,039 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:20,039 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][HostReactor.java:306] - failover-mode: false
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][HostReactor.java:306] - failover-mode: false
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][HostReactor.java:306] - failover-mode: false
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][HostReactor.java:306] - failover-mode: false
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:241] - List of Servers for media-api obtained from Discovery client: [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:241] - List of Servers for media-api obtained from Discovery client: [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: []
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for media-api obtained from Discovery client: [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for media-api obtained from Discovery client: [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [media-api]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [media-api]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: []
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:507] - LoadBalancer [media-api]:  addServer [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:507] - LoadBalancer [media-api]:  addServer [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.205.1:63050]}
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.205.1:63050]}
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: []
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [media-api_unknown]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [media-api_unknown]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: []
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:507] - LoadBalancer [media-api_unknown]:  addServer [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:507] - LoadBalancer [media-api_unknown]:  addServer [192.168.205.1:63050]
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {}
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {}
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2024-07-12 14:02:20,657 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2024-07-12 14:02:20,784 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-07-12 14:02:20,784 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-07-12 14:02:20,794 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:20,794 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:20,794 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:20,794 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:20,794 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:20,794 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e79e606: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e79e606: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1f44ec3d: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1f44ec3d: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e11d097: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e11d097: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f6b1372: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f6b1372: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a27d434: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a27d434: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b2588a8: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b2588a8: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@747adfe8: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@747adfe8: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@68725260: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@68725260: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6b912093: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6b912093: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1b006f3: (connection evicted)
+2024-07-12 14:02:20,809 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1b006f3: (connection evicted)
+2024-07-12 14:02:20,825 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:20,825 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:20,825 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-07-12 14:02:20,825 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-07-12 14:02:21,234 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:21,234 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:21,297 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:21,297 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:21,297 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:21,297 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:21,454 WARN [Thread-7][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:21,454 WARN [Thread-7][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:21,486 WARN [Thread-58][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:21,486 WARN [Thread-58][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:21,486 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0, started on Fri Jul 12 08:41:04 CST 2024, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3e2059ae
+2024-07-12 14:02:21,486 WARN [Thread-58][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:21,486 WARN [Thread-58][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:21,486 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0, started on Fri Jul 12 08:41:04 CST 2024, parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3e2059ae
+2024-07-12 14:02:21,486 INFO [Thread-93][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2024-07-12 14:02:21,486 WARN [Thread-7][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:21,486 INFO [Thread-93][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2024-07-12 14:02:21,486 WARN [Thread-7][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483647
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483647
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483646
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 2147483646
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerStartStop' completed its stop procedure
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'webServerStartStop' completed its stop procedure
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 0
+2024-07-12 14:02:21,501 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:369] - Stopping beans in phase 0
+2024-07-12 14:02:21,517 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:21,517 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:21,517 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'nacosWatch' completed its stop procedure
+2024-07-12 14:02:21,517 DEBUG [SpringContextShutdownHook][DefaultLifecycleProcessor.java:242] - Bean 'nacosWatch' completed its stop procedure
+2024-07-12 14:02:21,517 DEBUG [SpringContextShutdownHook][MBeanExporter.java:452] - Unregistering JMX-exposed beans on shutdown
+2024-07-12 14:02:21,517 DEBUG [SpringContextShutdownHook][MBeanExporter.java:452] - Unregistering JMX-exposed beans on shutdown
+2024-07-12 14:02:21,533 DEBUG [SpringContextShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-07-12 14:02:21,533 DEBUG [SpringContextShutdownHook][MBeanRegistrationSupport.java:186] - Unregistering JMX-exposed beans
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@gateway:192.168.205.1:63010 from beat map.
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@gateway:192.168.205.1:63010 from beat map.
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.205.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:21,533 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@gateway with instance: Instance{instanceId='null', ip='192.168.205.1', port=63010, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:21,533 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2024-07-12 14:02:21,533 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63010&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40gateway, body: {}
+2024-07-12 14:02:21,543 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:21,543 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:21,543 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:21,543 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:22,114 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:22,114 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@gateway\",\"name\":\"xuecheng-plus-project@@gateway\",\"cacheMillis\":10000,\"lastRefTime\":1720764142554,\"checksum\":\"7ff3f9858a48e543e88caf5d4022ddd5\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21414075851400} from /192.168.76.1
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@gateway\",\"name\":\"xuecheng-plus-project@@gateway\",\"cacheMillis\":10000,\"lastRefTime\":1720764142554,\"checksum\":\"7ff3f9858a48e543e88caf5d4022ddd5\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21414075851400} from /192.168.76.1
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.205.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.205.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@gateway@@DEFAULT -> [{"instanceId":"192.168.205.1#63010#DEFAULT#xuecheng-plus-project@@gateway","ip":"192.168.205.1","port":63010,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+2024-07-12 14:02:22,554 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@5f462f1e will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@7523a3dc
+2024-07-12 14:02:22,554 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@5f462f1e will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@7523a3dc
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@gateway@@DEFAULT -> []
+2024-07-12 14:02:22,554 INFO [com.alibaba.nacos.naming.push.receiver][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@gateway@@DEFAULT -> []
+2024-07-12 14:02:23,168 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:23,168 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:23,184 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:23,184 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:23,184 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:23,184 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:23,294 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:23,294 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=63351&clusters=, body: {}
+2024-07-12 14:02:23,545 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40gateway&udpPort=63351&clusters=DEFAULT, body: {}
+2024-07-12 14:02:23,545 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40gateway&udpPort=63351&clusters=DEFAULT, body: {}
+2024-07-12 14:02:25,053 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:25,053 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:25,305 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:25,305 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:25,305 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:25,305 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2024-07-12 14:02:26,196 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:26,196 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:26,306 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:26,306 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:26,306 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:26,306 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:27,119 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:27,119 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:29,240 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:29,240 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:29,241 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:29,241 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:29,241 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:29,241 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:29,242 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:29,242 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:29,242 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:29,242 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:29,243 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:29,243 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:29,243 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:29,243 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:29,243 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:29,243 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:29,244 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:29,244 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:29,244 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:29,244 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:29,245 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:346] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception
+java.lang.NullPointerException
+	at com.alibaba.cloud.nacos.NacosServiceManager.nacosServiceShutDown(NacosServiceManager.java:115)
+	at com.alibaba.cloud.nacos.registry.NacosServiceRegistry.close(NacosServiceRegistry.java:120)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:339)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:273)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1092)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1085)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1061)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1030)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.doClose(ReactiveWebServerApplicationContext.java:142)
+	at org.springframework.context.support.AbstractApplicationContext$1.run(AbstractApplicationContext.java:949)
+2024-07-12 14:02:29,245 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:346] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception
+java.lang.NullPointerException
+	at com.alibaba.cloud.nacos.NacosServiceManager.nacosServiceShutDown(NacosServiceManager.java:115)
+	at com.alibaba.cloud.nacos.registry.NacosServiceRegistry.close(NacosServiceRegistry.java:120)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.invokeCustomDestroyMethod(DisposableBeanAdapter.java:339)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:273)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1092)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1085)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1061)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1030)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.doClose(ReactiveWebServerApplicationContext.java:142)
+	at org.springframework.context.support.AbstractApplicationContext$1.run(AbstractApplicationContext.java:949)
+2024-07-12 14:02:29,251 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing SpringClientFactory-media-api, started on Fri Jul 12 10:04:59 CST 2024, parent: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0
+2024-07-12 14:02:29,251 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing SpringClientFactory-media-api, started on Fri Jul 12 10:04:59 CST 2024, parent: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0
+2024-07-12 14:02:29,264 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing SpringClientFactory-content-api, started on Fri Jul 12 08:55:45 CST 2024, parent: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0
+2024-07-12 14:02:29,264 DEBUG [SpringContextShutdownHook][AbstractApplicationContext.java:1006] - Closing SpringClientFactory-content-api, started on Fri Jul 12 08:55:45 CST 2024, parent: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@4ba534b0
+2024-07-12 14:02:30,070 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:30,070 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:30,439 ERROR [xxl-job, executor ExecutorRegistryThread][XxlJobRemotingUtil.java:143] - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1228)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:99)
+	at com.xxl.job.core.biz.client.AdminBizClient.registry(AdminBizClient.java:42)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:48)
+	at java.lang.Thread.run(Thread.java:750)
+2024-07-12 14:02:30,439 ERROR [xxl-job, executor ExecutorRegistryThread][XxlJobRemotingUtil.java:143] - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1228)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:99)
+	at com.xxl.job.core.biz.client.AdminBizClient.registry(AdminBizClient.java:42)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:48)
+	at java.lang.Thread.run(Thread.java:750)
+2024-07-12 14:02:30,440 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:54] - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='media-process-service', registryValue='http://192.168.76.1:9999/'}, registryResult:ReturnT [code=500, msg=xxl-job remoting error(Connection refused: connect), for url : http://localhost:8088/xxl-job-admin/api/registry, content=null]
+2024-07-12 14:02:30,440 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:54] - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='media-process-service', registryValue='http://192.168.76.1:9999/'}, registryResult:ReturnT [code=500, msg=xxl-job remoting error(Connection refused: connect), for url : http://localhost:8088/xxl-job-admin/api/registry, content=null]
+2024-07-12 14:02:31,310 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:31,310 DEBUG [com.alibaba.nacos.naming.beat.sender][NamingProxy.java:421] - [BEAT] dev sending beat to server: BeatInfo{port=63050, ip='192.168.205.1', weight=1.0, serviceName='xuecheng-plus-project@@media-api', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false}
+2024-07-12 14:02:31,311 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:31,311 DEBUG [com.alibaba.nacos.naming.beat.sender][NacosRestTemplate.java:476] - HTTP method: PUT, url: http://localhost:8848/nacos/v1/ns/instance/beat?app=unknown&serviceName=xuecheng-plus-project%40%40media-api&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1, body: {}
+2024-07-12 14:02:31,329 DEBUG [reactor-http-nio-2][PoolThreadCache.java:224] - Freed 37 thread-local buffer(s) from thread: reactor-http-nio-2
+2024-07-12 14:02:31,329 DEBUG [reactor-http-nio-2][PoolThreadCache.java:224] - Freed 37 thread-local buffer(s) from thread: reactor-http-nio-2
+2024-07-12 14:02:31,329 DEBUG [reactor-http-nio-4][PoolThreadCache.java:224] - Freed 29 thread-local buffer(s) from thread: reactor-http-nio-4
+2024-07-12 14:02:31,329 DEBUG [reactor-http-nio-4][PoolThreadCache.java:224] - Freed 29 thread-local buffer(s) from thread: reactor-http-nio-4
+2024-07-12 14:02:31,330 DEBUG [reactor-http-nio-3][PoolThreadCache.java:224] - Freed 33 thread-local buffer(s) from thread: reactor-http-nio-3
+2024-07-12 14:02:31,330 DEBUG [reactor-http-nio-3][PoolThreadCache.java:224] - Freed 33 thread-local buffer(s) from thread: reactor-http-nio-3
+2024-07-12 14:02:31,332 DEBUG [reactor-http-nio-1][PoolThreadCache.java:224] - Freed 31 thread-local buffer(s) from thread: reactor-http-nio-1
+2024-07-12 14:02:31,332 DEBUG [reactor-http-nio-1][PoolThreadCache.java:224] - Freed 31 thread-local buffer(s) from thread: reactor-http-nio-1
+2024-07-12 14:02:31,982 WARN [Thread-55][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:31,982 WARN [Thread-11][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:31,982 WARN [Thread-55][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-07-12 14:02:31,982 WARN [Thread-11][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-07-12 14:02:31,982 WARN [Thread-55][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:31,982 WARN [Thread-55][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-07-12 14:02:31,982 WARN [Thread-11][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:31,982 WARN [Thread-11][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-07-12 14:02:32,729 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:32,729 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-07-12 14:02:32,735 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:32,735 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-07-12 14:02:32,736 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@media-api:192.168.205.1:63050 from beat map.
+2024-07-12 14:02:32,736 INFO [SpringContextShutdownHook][BeatReactor.java:101] - [BEAT] removing beat: xuecheng-plus-project@@media-api:192.168.205.1:63050 from beat map.
+2024-07-12 14:02:32,736 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@media-api with instance: Instance{instanceId='null', ip='192.168.205.1', port=63050, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:32,736 INFO [SpringContextShutdownHook][NamingProxy.java:260] - [DEREGISTER-SERVICE] dev deregistering service xuecheng-plus-project@@media-api with instance: Instance{instanceId='null', ip='192.168.205.1', port=63050, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+2024-07-12 14:02:32,737 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40media-api, body: {}
+2024-07-12 14:02:32,737 DEBUG [SpringContextShutdownHook][NacosRestTemplate.java:476] - HTTP method: DELETE, url: http://localhost:8848/nacos/v1/ns/instance?app=unknown&namespaceId=dev&port=63050&clusterName=DEFAULT&ip=192.168.205.1&ephemeral=true&serviceName=xuecheng-plus-project%40%40media-api, body: {}
+2024-07-12 14:02:32,739 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:32,739 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-07-12 14:02:32,739 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:32,739 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2024-07-12 14:02:33,185 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:33,185 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:33,187 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@media-api@@DEFAULT -> [{"instanceId":"192.168.205.1#63050#DEFAULT#xuecheng-plus-project@@media-api","ip":"192.168.205.1","port":63050,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@media-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2024-07-12 14:02:33,187 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:238] - removed ips(1) service: xuecheng-plus-project@@media-api@@DEFAULT -> [{"instanceId":"192.168.205.1#63050#DEFAULT#xuecheng-plus-project@@media-api","ip":"192.168.205.1","port":63050,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@media-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2024-07-12 14:02:33,188 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@60a133dc will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@53f7a906
+2024-07-12 14:02:33,188 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@60a133dc will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@53f7a906
+2024-07-12 14:02:33,199 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@media-api@@DEFAULT -> []
+2024-07-12 14:02:33,199 INFO [com.alibaba.nacos.client.naming.updater][HostReactor.java:271] - current ips:(0) service: xuecheng-plus-project@@media-api@@DEFAULT -> []
+2024-07-12 14:02:33,748 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@media-api\",\"name\":\"xuecheng-plus-project@@media-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764153746,\"checksum\":\"e581954b7428757802b5a9598d3a399d\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21425267049700} from /192.168.76.1
+2024-07-12 14:02:33,748 INFO [com.alibaba.nacos.naming.push.receiver][PushReceiver.java:97] - received push data: {"type":"dom","data":"{\"dom\":\"xuecheng-plus-project@@media-api\",\"name\":\"xuecheng-plus-project@@media-api\",\"cacheMillis\":10000,\"lastRefTime\":1720764153746,\"checksum\":\"e581954b7428757802b5a9598d3a399d\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":21425267049700} from /192.168.76.1
+2024-07-12 14:02:35,101 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:35,101 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:35,211 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:35,211 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://localhost:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev&clientIP=192.168.76.1&serviceName=xuecheng-plus-project%40%40media-api&udpPort=52014&clusters=DEFAULT, body: {}
+2024-07-12 14:02:35,763 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:35,763 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2024-07-12 14:02:35,764 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:35,764 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2024-07-12 14:02:38,782 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:38,782 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2024-07-12 14:02:40,103 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:40,103 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2024-07-12 14:02:41,816 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:41,816 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2024-07-12 14:02:41,817 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:41,817 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2024-07-12 14:02:41,817 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:41,817 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2024-07-12 14:02:41,818 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:41,818 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2024-07-12 14:02:41,818 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:41,818 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2024-07-12 14:02:41,819 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:41,819 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2024-07-12 14:02:41,820 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:41,820 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:41,821 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2024-07-12 14:02:41,822 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-07-12 14:02:41,822 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-07-12 14:02:41,827 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:41,827 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-07-12 14:02:41,834 INFO [Thread-48][EmbedServer.java:91] - >>>>>>>>>>> xxl-job remoting server stop.
+2024-07-12 14:02:41,834 INFO [Thread-48][EmbedServer.java:91] - >>>>>>>>>>> xxl-job remoting server stop.
+2024-07-12 14:02:42,909 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service-dev.yamlxuecheng-plus-project7b2583238b9fae524126390d97352252devswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devmedia-api-dev.yamlxuecheng-plus-project7e41197fdbb4b6bd1194ae292af19ff8devmedia-apixuecheng-plus-projectdevmedia-api.yamlxuecheng-plus-projectdev, tenant=dev}
+2024-07-12 14:02:42,909 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service-dev.yamlxuecheng-plus-project7b2583238b9fae524126390d97352252devswagger-dev.yamlxuecheng-plus-common946871c5aa30ba88699a225202bc3b25devlogging-dev.yamlxuecheng-plus-common93db0af0040302ef8aeb4b6f50616937devmedia-api-dev.yamlxuecheng-plus-project7e41197fdbb4b6bd1194ae292af19ff8devmedia-apixuecheng-plus-projectdevmedia-api.yamlxuecheng-plus-projectdev, tenant=dev}
+2024-07-12 14:02:42,909 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@2cb35a6e]
+2024-07-12 14:02:42,909 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848-dev][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@2cb35a6e]
+2024-07-12 14:02:43,858 ERROR [xxl-job, executor ExecutorRegistryThread][XxlJobRemotingUtil.java:143] - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1228)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:99)
+	at com.xxl.job.core.biz.client.AdminBizClient.registryRemove(AdminBizClient.java:47)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:84)
+	at java.lang.Thread.run(Thread.java:750)
+2024-07-12 14:02:43,858 ERROR [xxl-job, executor ExecutorRegistryThread][XxlJobRemotingUtil.java:143] - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1228)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:99)
+	at com.xxl.job.core.biz.client.AdminBizClient.registryRemove(AdminBizClient.java:47)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:84)
+	at java.lang.Thread.run(Thread.java:750)
+2024-07-12 14:02:43,859 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:90] - >>>>>>>>>>> xxl-job registry-remove fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='media-process-service', registryValue='http://192.168.76.1:9999/'}, registryResult:ReturnT [code=500, msg=xxl-job remoting error(Connection refused: connect), for url : http://localhost:8088/xxl-job-admin/api/registryRemove, content=null]
+2024-07-12 14:02:43,859 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:90] - >>>>>>>>>>> xxl-job registry-remove fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='media-process-service', registryValue='http://192.168.76.1:9999/'}, registryResult:ReturnT [code=500, msg=xxl-job remoting error(Connection refused: connect), for url : http://localhost:8088/xxl-job-admin/api/registryRemove, content=null]
+2024-07-12 14:02:43,859 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:105] - >>>>>>>>>>> xxl-job, executor registry thread destroy.
+2024-07-12 14:02:43,859 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:105] - >>>>>>>>>>> xxl-job, executor registry thread destroy.
+2024-07-12 14:02:43,859 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2024-07-12 14:02:43,859 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2024-07-12 14:02:43,860 INFO [xxl-job, executor JobLogFileCleanThread][JobLogFileCleanThread.java:99] - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destroy.
+2024-07-12 14:02:43,860 INFO [xxl-job, executor JobLogFileCleanThread][JobLogFileCleanThread.java:99] - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destroy.
+2024-07-12 14:02:43,861 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2024-07-12 14:02:43,861 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2024-07-12 14:02:43,863 INFO [Thread-47][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.
+2024-07-12 14:02:43,863 INFO [Thread-47][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.
+2024-07-12 14:02:43,868 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:43,868 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-07-12 14:02:43,868 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:43,868 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2024-07-12 14:02:43,891 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@750460df: (connection evicted)
+2024-07-12 14:02:43,891 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@750460df: (connection evicted)
+2024-07-12 14:02:43,894 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34396ae4: (connection evicted)
+2024-07-12 14:02:43,894 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34396ae4: (connection evicted)
+2024-07-12 14:02:43,896 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5c798b8: (connection evicted)
+2024-07-12 14:02:43,896 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5c798b8: (connection evicted)
+2024-07-12 14:02:43,897 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@541695ab: (connection evicted)
+2024-07-12 14:02:43,897 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@541695ab: (connection evicted)
+2024-07-12 14:02:43,898 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26b1e155: (connection evicted)
+2024-07-12 14:02:43,898 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26b1e155: (connection evicted)
+2024-07-12 14:02:43,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5058ad1c: (connection evicted)
+2024-07-12 14:02:43,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5058ad1c: (connection evicted)
+2024-07-12 14:02:43,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3348869c: (connection evicted)
+2024-07-12 14:02:43,900 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3348869c: (connection evicted)
+2024-07-12 14:02:43,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8ab1b62: (connection evicted)
+2024-07-12 14:02:43,901 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8ab1b62: (connection evicted)
+2024-07-12 14:02:43,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@368d5349: (connection evicted)
+2024-07-12 14:02:43,902 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@368d5349: (connection evicted)
+2024-07-12 14:02:43,904 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@861f20e: (connection evicted)
+2024-07-12 14:02:43,904 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@861f20e: (connection evicted)
+2024-07-12 14:02:43,916 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:43,916 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-07-12 14:02:43,916 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-07-12 14:02:43,916 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.

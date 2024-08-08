@@ -1,0 +1,6 @@
+com\xuecheng\orders\model\dto\PayStatusDto.class
+com\xuecheng\orders\model\dto\PayRecordDto.class
+com\xuecheng\orders\model\dto\AddOrderDto.class
+com\xuecheng\orders\model\po\XcOrdersGoods.class
+com\xuecheng\orders\model\po\XcPayRecord.class
+com\xuecheng\orders\model\po\XcOrders.class

@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      discovery:
+        namespace: dev
+        group: xingcai-project
+      config:
+        namespace: dev
+        group: xingcai-project
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: logging-${spring.profiles.active}.yaml
+            group: xingcai-common
+            refresh: true
+
+
+  profiles:
+    active: dev

@@ -1,0 +1,7 @@
+com\xuecheng\orders\util\SecurityUtil$XcUser.class
+com\xuecheng\orders\util\SecurityUtil.class
+com\xuecheng\OrdersApiApplication.class
+com\xuecheng\orders\api\OrderController.class
+com\xuecheng\orders\api\PayTestController.class
+com\xuecheng\orders\config\ResouceServerConfig.class
+com\xuecheng\orders\config\TokenConfig.class

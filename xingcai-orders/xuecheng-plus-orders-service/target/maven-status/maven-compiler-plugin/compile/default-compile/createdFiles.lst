@@ -1,0 +1,8 @@
+com\xuecheng\orders\config\AlipayConfig.class
+com\xuecheng\orders\mapper\XcPayRecordMapper.class
+com\xuecheng\orders\mapper\XcOrdersGoodsMapper.class
+com\xuecheng\orders\config\MybatisPlusConfig.class
+com\xuecheng\orders\service\impl\OrderServiceImpl.class
+com\xuecheng\orders\mapper\XcOrdersMapper.class
+com\xuecheng\orders\config\PayNotifyConfig.class
+com\xuecheng\orders\service\OrderService.class
